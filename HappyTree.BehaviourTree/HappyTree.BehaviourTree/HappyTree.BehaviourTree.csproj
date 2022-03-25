@@ -7,7 +7,11 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Authors>Marius Anderie</Authors>
     <Company />
-    <Description>A C# behaviour tree</Description>
+    <Description>A C# behaviour tree with a fluent API.</Description>
+    <PackageProjectUrl>https://github.com/moccajoghurt/HappyTree.BehaviourTree</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/moccajoghurt/HappyTree.BehaviourTree</RepositoryUrl>
+    <PackageTags>c#,fluent,api,behaviour,tree</PackageTags>
+    <PackageReleaseNotes>This is a fork of the abandoned "FluentBehaviourTree"-project.</PackageReleaseNotes>
   </PropertyGroup>
 
 </Project>
